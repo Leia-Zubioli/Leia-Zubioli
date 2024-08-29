@@ -2,7 +2,12 @@
 
 ### 👨‍💻 Olá seja bem vindo ao meu perfil! 
 
-Sou a Léia Zubioli, uma profissional dedicada e orientada para resultados, com uma abordagem prática para aprender novas tecnologias.
+Sou Léia Cristina da Silva Zubioli, uma profissional dedicada na área de Qualidade de Software. Com habilidades em diferentes metodologias de teste, como testes manuais e automatizados.
+Com conhecimento em análise de requisitos, planejamento de testes, criação de casos de teste, execução e documentação de resultados.
+Além disso, com uma sólida capacidade de colaboração e comunicação, trabalhando em estreita cooperação com equipes de desenvolvimento, gerenciamento de produto e outros stakeholders para garantir que as expectativas sejam claramente definidas e atendidas.
+
+Nos meus momentos, adoro leitura, atividade física, pesquisar novas tecnologias, filmes e conversar com amigos, o que contribui para um olhar atento aos detalhes e compromisso com a qualidade em todos os aspectos da vida profissional e pessoal.
+
 
 Neste perfil, você encontrará alguns de meus projetos mais relevantes principalmente de automação de testes.
 
